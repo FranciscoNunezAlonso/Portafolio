@@ -456,7 +456,7 @@ body{
 
 .home{
     height: 100vh;
-    background-image: url('/src/img/florian-olivo-4hbJ-eymZ1o-unsplash.jpg');
+    background-image: url('https://github.com/FranciscoNunezAlonso/Portafolio/blob/main/src/img/florian-olivo-4hbJ-eymZ1o-unsplash.jpg?raw=true');
     background-size: cover;
 }
 
@@ -697,6 +697,8 @@ body{
 
 .home{
     height: 100vh;
+    background-image: url('https://github.com/FranciscoNunezAlonso/Portafolio/blob/main/src/img/florian-olivo-4hbJ-eymZ1o-unsplash.jpg?raw=true');
+    background-size: cover;
 }
 
 .home_container{
